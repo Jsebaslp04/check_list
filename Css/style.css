@@ -10,10 +10,12 @@
     --blue-light: #04d4c3;
     --blue-dark: #2a73c2;
     --green: #2c7b90;
+    --orange-red: #FF4500;
+    --dark-orange: #ff8c00;
 }
 
 body {
-    background: linear-gradient(to bottom, var(--purple), var(--blue-light));
+    background: linear-gradient(to bottom, var(--orange-red), var(--dark-orange));
     height: 100vh;
     font-family:"Noto Serif", sans-serif;
 }
