@@ -17,7 +17,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom, var(--orange-red), var(--dark-orange));
+    background: linear-gradient(to bottom, var(--purple), var(--blue-light));
     height: 100vh;
     font-family:"Noto Serif", sans-serif;
 }
@@ -91,7 +91,7 @@ body {
 }
 .seccion-tarea li {
     display: flex;
-    background: linear-gradient(to bottom, var(--Indian-red), var(--Amarillo));
+    background: linear-gradient(to bottom, var(--blue-dark), var(--green));
     border-radius: 15px;
     padding: 10px;
     align-items: center;
