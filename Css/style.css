@@ -12,6 +12,8 @@
     --green: #2c7b90;
     --orange-red: #FF4500;
     --dark-orange: #ff8c00;
+    --Indian-red: #CD5C5C;
+    --Amarillo: #FFC300;
 }
 
 body {
@@ -89,7 +91,7 @@ body {
 }
 .seccion-tarea li {
     display: flex;
-    background: linear-gradient(to bottom, var(--blue-dark), var(--green));
+    background: linear-gradient(to bottom, var(--Indian-red), var(--Amarillo));
     border-radius: 15px;
     padding: 10px;
     align-items: center;
